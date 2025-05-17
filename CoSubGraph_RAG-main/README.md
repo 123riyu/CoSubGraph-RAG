@@ -1,2 +1,0 @@
-# CoSubGraph_RAG-main
-
